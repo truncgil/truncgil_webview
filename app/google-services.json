@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "529160555546",
+    "firebase_url": "https://superview-afbc9.firebaseio.com",
+    "project_id": "superview-afbc9",
+    "storage_bucket": "superview-afbc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529160555546:android:a977162777d3b51e",
+        "android_client_info": {
+          "package_name": "com.brommko.android.xorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529160555546-g6hojo1if6r7bdh0a1fdkdvs884biak3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC49EY87D5JgYg4RSQ91VAuO6LSPkCVLus"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

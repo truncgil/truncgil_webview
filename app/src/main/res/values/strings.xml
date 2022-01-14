@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Xorage</string>
+    <string name="downloading">Dosya indiriliyor</string>
+    <string name="loading">Yükleniyor</string>
+
+    <string name="rate_dialog_title">Uygulamayayı beğendiniz mi</string>
+    <string name="rate_dialog_message">Sadece yarım dakikanızı ayırarak bize yıldız verebilir bize en büyük katkıyı sağlayabilirsiniz!</string>
+    <string name="rate_dialog_ok">Tamam vermek istiyorum.</string>
+    <string name="rate_dialog_cancel">Bana sonra hatırlat</string>
+    <string name="rate_dialog_no">Tekrar gösterme</string>
+    <string name="whatsapp_have_not_been_installed">Whatsapp telefonunuzda yüklü değil</string>
+</resources>
